@@ -1,0 +1,2 @@
+serverA 30
+serverB 30
